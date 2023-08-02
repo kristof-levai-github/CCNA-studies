@@ -14,6 +14,8 @@ Please note that I could not recover .pka files for the very basic setups, like 
 
 Please note that while these .pka files are based on real CCNA course activities, they are not official Cisco materials. Use them for educational purposes and self-study to reinforce your networking skills.
 
++most of them are written in hungarian
+
 # **Acknowledgments**
 
 Please note that while I have solved and completed these .pka activities, the credit for their creation goes to Madarassy Mónika. I am immensely grateful for the effort and expertise that went into designing these practical networking exercises.
