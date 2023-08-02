@@ -8,6 +8,8 @@ Cisco Certified Network Associate (CCNA) is an entry-level certification offered
 
 In this repository, you'll find a collection of .pka files corresponding to various networking activities I completed during my CCNA studies. Each .pka file represents a different scenario, such as setting up a basic network, implementing VLANs, configuring routing protocols, and more.
 
+Please note that I could not recover .pka files for the very basic setups, like basic VLANs and setting up 2 PCs, but I had completed those too in the past.
+
 # **Disclaimer**
 
 Please note that while these .pka files are based on real CCNA course activities, they are not official Cisco materials. Use them for educational purposes and self-study to reinforce your networking skills.
