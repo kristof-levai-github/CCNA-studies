@@ -4,6 +4,8 @@ Welcome to the CCNA Studies repository! This repository contains .pka files (Pac
 
 Cisco Certified Network Associate (CCNA) is an entry-level certification offered by Cisco Systems, one of the world's leading networking equipment providers. The CCNA certification validates your ability to install, configure, operate, and troubleshoot small to medium-sized networks.
 
+__note: exercises may overlap, for example: eigrp pka may contain VLAN, DHCP, ACL, etc 
+
 # **Repository Contents**
 
 In this repository, you'll find a collection of .pka files corresponding to various networking activities I completed during my CCNA studies. Each .pka file represents a different scenario, such as setting up a basic network, implementing VLANs, configuring routing protocols, and more.
